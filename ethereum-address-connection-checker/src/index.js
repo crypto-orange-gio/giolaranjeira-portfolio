@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // Configuration
 const TARGET_ADDRESS = '0x9d3f5b2a32a0928123cd9440e94a15d37ec1aaa5'.toLowerCase();
-const ETHERSCAN_API_KEY = '1EV171IJQ56BPV9HP2IDZFKJKGVKGCVKB8';
+const ETHERSCAN_API_KEY = 'your api key';
 const ETHERSCAN_API_URL = 'https://api.etherscan.io/api';
 
 // Array of addresses to check (replace with your addresses)
