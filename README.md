@@ -61,10 +61,13 @@ Technical documentation and protocols
 
 Each project folder includes detailed documentation on implementation, technologies used, and problem-solving approaches.
 
-## Projects
+## Personal Projects
 
 ### [Blockchain Data Fetcher](./blockchain-data-fetcher)
 A Node.js application that connects to Ethereum networks via Infura to fetch account data, resolve ENS domains, and retrieve blockchain metrics. Built with Node.js and Axios.
+
+### [Ethereum Transaction Analyzer](./ethereum-transaction-analyzer)
+Advanced blockchain forensics tool that analyzes Ethereum transactions to detect connections between addresses. Features batch processing, comprehensive transaction analysis, and detailed reporting capabilities.
 
 📫 Contact:
 Feel free to reach out for collaborations or opportunities:
