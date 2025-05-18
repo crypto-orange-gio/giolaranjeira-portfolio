@@ -72,6 +72,9 @@ Advanced blockchain forensics tool that analyzes Ethereum transactions to detect
 ### [Ethereum Common Address Detector](./ethereum-common-address-detector)
 Specialized tool for identifying Ethereum addresses that interact with multiple wallets from an input list. Helps detect relationships between seemingly unrelated addresses by finding common counterparties.
 
+### [Ethereum Address Connection Checker](./ethereum-address-connection-checker)
+Focused tool for detecting direct transaction connections between a target Ethereum address and a list of addresses. Performs comprehensive analysis across six different transaction types to uncover historical interactions.
+
 📫 Contact:
 Feel free to reach out for collaborations or opportunities:
 
