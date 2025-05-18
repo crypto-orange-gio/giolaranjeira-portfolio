@@ -69,6 +69,9 @@ A Node.js application that connects to Ethereum networks via Infura to fetch acc
 ### [Ethereum Transaction Analyzer](./ethereum-transaction-analyzer)
 Advanced blockchain forensics tool that analyzes Ethereum transactions to detect connections between addresses. Features batch processing, comprehensive transaction analysis, and detailed reporting capabilities.
 
+### [Ethereum Common Address Detector](./ethereum-common-address-detector)
+Specialized tool for identifying Ethereum addresses that interact with multiple wallets from an input list. Helps detect relationships between seemingly unrelated addresses by finding common counterparties.
+
 📫 Contact:
 Feel free to reach out for collaborations or opportunities:
 
